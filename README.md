@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thekpaul&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![thekpaul's github stats](https://github-readme-stats.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![thekpaul's github stats](https://github-readme-stats.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekpaul&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
