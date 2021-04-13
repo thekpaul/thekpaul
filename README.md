@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![thekpaul's github stats](https://github-readme-stats.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
