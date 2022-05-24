@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thekpaul&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+# 🏠 Welcome to My Profile!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthekpaul&count_bg=%23008888&title_bg=%23808080&icon=github.svg&icon_color=%23B0B0B0&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![thekpaul's github stats](https://github-readme-stats-thekpaul.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
