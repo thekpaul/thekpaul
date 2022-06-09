@@ -28,7 +28,6 @@ learning [Electrical and Computer Engineering][1].
 
 
 [![Top Langs](https://github-readme-stats-thekpaul.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=github-readme-stats,thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-<\div>
+</div>
 
 [1]: https://ece.snu.ac.kr
