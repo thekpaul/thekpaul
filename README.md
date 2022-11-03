@@ -26,8 +26,10 @@ learning [Electrical and Computer Engineering][1].
 
 [![thekpaul's github stats](https://github-readme-stats-thekpaul.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats-thekpaul.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=github-readme-stats,thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+[![thekpaul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thekpaul&layout=compact&langs_count=6&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 [1]: https://ece.snu.ac.kr
