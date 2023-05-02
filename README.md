@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 # 🏠 Welcome to My Profile!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthekpaul&count_bg=%23008888&title_bg=%23808080&icon=github.svg&icon_color=%23B0B0B0&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align = "center">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthekpaul&count_bg=%23008888&title_bg=%23808080&icon=github.svg&icon_color=%23B0B0B0&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime badge](https://wakatime.com/badge/user/1b677677-1ab9-47dd-b620-bd068d276b6e.svg)](https://wakatime.com/@1b677677-1ab9-47dd-b620-bd068d276b6e)
+
+</div>
 
 Undergraduate at Seoul National University, learning
 [Electrical and Computer Engineering][1].
