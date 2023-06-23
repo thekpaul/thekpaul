@@ -29,13 +29,14 @@ Undergraduate at Seoul National University, learning
 
 <div align = "center">
 
-[![github stats](https://github-readme-stats-thekpaul.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats-thekpaul.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&card_width=495)][2]
 
-[![Top Langs](https://github-readme-stats-thekpaul.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=github-readme-stats,thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-thekpaul.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=github-readme-stats,thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry&card_width=495)][2]
 
-[![wakatime stats](https://github-readme-stats-thekpaul.vercel.app/api/wakatime?username=thekpaul&layout=compact&langs_count=8&theme=blueberry&range=all_time)][2]
+[![wakatime stats](https://github-readme-stats-thekpaul.vercel.app/api/wakatime?username=thekpaul&layout=compact&langs_count=8&theme=blueberry)][3]
 
 </div>
 
 [1]: https://ece.snu.ac.kr
-[2]: https://wakatime.com/@thekpaul
+[2]: https://github.com/anuraghazra/github-readme-stats
+[3]: https://wakatime.com/@thekpaul
