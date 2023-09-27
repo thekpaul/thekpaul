@@ -31,7 +31,7 @@ Undergraduate at Seoul National University, learning
 
 [![github stats](https://github-readme-stats-thekpaul.vercel.app/api?username=thekpaul&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&card_width=495)][2]
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thekpaul&theme=blueberry&date_format=j%20M%5B%20Y%5D&ring=3572A5&fire=F34B7D)][4]
+[![GitHub Streak](https://github-readme-streak-stats-liard.vercel.app?user=thekpaul&theme=blueberry&date_format=j%20M%5B%20Y%5D&ring=3572A5&fire=F34B7D)][4]
 
 [![Top Langs](https://github-readme-stats-thekpaul.vercel.app/api/top-langs/?username=thekpaul&exclude_repo=github-readme-stats,thekpaul.github.io&layout=compact&langs_count=8&count_private=true&theme=blueberry&card_width=495)][2]
 
